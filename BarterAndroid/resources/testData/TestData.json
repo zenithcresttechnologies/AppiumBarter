@@ -1,0 +1,38 @@
+{
+  "Signup Credentials": [
+    {
+      "validEmail": "jamesswagz24+23395@gmail.com",
+      "validPhoneNumber": "09045302069",
+      "OTP": "123456",
+      "fullName": "James Ohia",
+      "validPassword": "James1997.",
+      "cardNumber": "5531886652142950",
+      "cardExpiry": "09/32",
+      "cvv": "564"
+
+    },
+
+    {
+      "invalidEmail": "jamesswagz24+23495@gmail",
+      "invalidPhoneNumber": "090453020",
+      "OTP": "123456",
+      "fullName": "James Ohia",
+      "validPassword": "James1997.",
+      "cardNumber": "5531886652142950",
+      "cardExpiry": "09/32",
+      "cvv": "564"
+
+    }
+  ],
+  "Login Credentials": [
+    {
+      "validPhoneNumber": "08990000001",
+      "validPin": "8378",
+      "validAccountNumber": "0131570518",
+      "validTransactionPin": "8378",
+      "transactionAmount": "100",
+      "transactionRemark": "Random remark provided.",
+      "OTP": "OTP"
+    }
+  ]
+}
